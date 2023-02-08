@@ -1,5 +1,5 @@
 import hail as hl
-from .tx_annotation_resources import *
+from tx_annotation_resources import *
 hl.init()
 
 
